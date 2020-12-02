@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  cyphr: cyphr.html
+  data: data.html
+last_built: 2021-03-08T02:35Z
+urls:
+  reference: https://docs.ropensci.org/cyphr/reference
+  article: https://docs.ropensci.org/cyphr/articles
+

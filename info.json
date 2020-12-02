@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ced5dde311ff9bc1f8a17873f9ae40449d0bef4e",
+    "author": "Rich FitzJohn <r.fitzjohn@imperial.ac.uk>",
+    "time": "2020-12-02 12:33:08",
+    "files": 6,
+    "merge": true,
+    "message": "Merge pull request #43 from superjai/proposed-update-12\n\n"
+  },
+  "remote": "https://github.com/ropensci/cyphr",
+  "pkg": "cyphr"
+}
