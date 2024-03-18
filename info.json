@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "c52097f05fa03bf015c98c0165eb1d99ab05ac13",
+    "author": "Wes Hinsley <w.hinsley@imperial.ac.uk>",
+    "time": "2023-08-21 09:48:54",
+    "files": 9,
+    "merge": true,
+    "message": "Merge pull request #55 from ropensci/cran-demands\n\nUpdate for cran, per request."
+  },
+  "repo": "https://github.com/ropensci/cyphr",
+  "pkg": "cyphr"
+}
