@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "047d0c7d8bb3a347a2706512fedb7cbb1e2d6d57",
+    "author": "Rich FitzJohn <r.fitzjohn@imperial.ac.uk>",
+    "time": "2025-02-07T10:13:36Z",
+    "files": 4,
+    "merge": true,
+    "message": "Merge pull request #60 from ropensci/reside-383\n\nFix lint"
+  },
+  "repo": "https://github.com/ropensci/cyphr",
+  "pkg": "cyphr",
+  "time": "2026-08-30T07:19:58Z"
+}
